@@ -1,2 +1,2 @@
 # Python-progress
-my python route in tech creek
+My journey as a Data Analyst using Python
